@@ -14,14 +14,13 @@ My short CV is given below -
 - [x] **Ph.D supervisor**: *Professor Satrajit Adhikari*.
 
 ## Academic positions held
-- [x] Postdoctoral Fellow, Department of Chemistry (August 21, 2019-August 31, 2021)
-    - University of Waterloo, Canada.
-- [x] Postdoctoral Fellow, Department of Chemistry (June 8, 2018–October 7, 2018)
-    - University of Waterloo, Canada.
-- [x] Postdoctoral Fellow, Department of Chemistry (November 1, 2016–December 30, 2017)
-    - University of Waterloo, Canada.
-- [x] Postdoctoral Fellow, Department of Chemical and Biological Physics (July 6, 2014–July 6, 2016)
-    - Weizmann Institute of Science, Israel.
+
+| University | Position held | Date of joining | Date of leaving |
+| --- | --- | ---| ---|
+| Department of Chemistry, University of Waterloo, Canada | Postdoctoral Fellow | August 21, 2019 | August 31, 2021 |
+| Department of Chemistry, University of Waterloo, Canada | Postdoctoral Fellow | June 8, 2018 | October 7, 2018 |
+| Department of Chemistry, University of Waterloo, Canada | Postdoctoral Fellow | November 1, 2016 | December 30, 2017 |
+| Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel | Postdoctoral Fellow | July 6, 2014 |July 6, 2016 |
     
 ## My research interests are given below: 
 
