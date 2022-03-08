@@ -2,6 +2,14 @@
 
 My short CV is given below - 
 
+## Present academic position
+    - Visiting Scientist, Department of Chemistry, University of Waterloo, Canada.
+    
+## Personal
+    - Born on January 15, 1984. 
+    - Indian Citizen.
+
+
 ## Educational qualifications
 
 | Degree passed | Year of passing | University / Institution |
