@@ -10,6 +10,16 @@
     - Ph.D. thesis: “Surface temperature effect on the molecule-surface scattering processes and reactive scattering for triatomic system”.
     - Ph.D supervisor: Professor Satrajit Adhikari  
 
+## Academic positions held
+- [x] Postdoctoral Fellow, Department of Chemistry (August 21, 2019-August 31, 2021)
+    - University of Waterloo, Canada.
+- [x] Postdoctoral Fellow, Department of Chemistry (June 8, 2018–October 7, 2018)
+    - University of Waterloo, Canada.
+- [x] Postdoctoral Fellow, Department of Chemistry (November 1, 2016–December 30, 2017)
+    - University of Waterloo, Canada.
+- [x] Postdoctoral Fellow, Department of Chemical and Biological Physics (July 6, 2014–July 6, 2016)
+    - Weizmann Institute of Science, Israel.
+    
 ## My research interests are given below: 
 
 - [x] Quantum molecular dynamics of many–body systems, mathematical modelling, algorithmic developments and high performance computing simulations of complex molecular systems.  
