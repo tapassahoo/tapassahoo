@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+My short CV is given below - 
 
 ## Education qualifications
 - [x] B.Sc (Hons) in Chemistry (2002-2006)
@@ -30,22 +32,17 @@
 ## Key skills
 
 - [x] Scientific programming:
-```
-FORTRAN, Python, C, C++ ...
-```
+    - FORTRAN, Python, C, C++ ...
 
 - [x] Scripting Language:
-```
-Python, Bash...
-```
+    - Python, Bash...
+
 - [x] High-performance computations:
-```
-OpenMP, CUDA C
-```
+    - OpenMP, CUDA C
+    
 - [x] Research Tools:
-```
-Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
-```
+    - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
+
 
   
 
