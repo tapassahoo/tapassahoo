@@ -30,16 +30,12 @@ My short CV is given below -
 - [x] Electronic structure calculations of bio-molecules. 
 
 ## Key skills
-
 - [x] Scientific programming:
     - FORTRAN, Python, C, C++ ...
-
 - [x] Scripting Language:
     - Python, Bash...
-
 - [x] High-performance computations:
-    - OpenMP, CUDA C
-    
+    - OpenMP, CUDA C    
 - [x] Research Tools:
     - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
 
