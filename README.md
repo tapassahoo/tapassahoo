@@ -38,11 +38,14 @@ My short CV is given below -
 
 ## Key skills
 
-| --- | --- |
-| **Scientific programming** | FORTRAN, Python, C, C++ ... |
-| **Scripting Language** | Python, Bash ... |
-| **High-performance computations** | OpenMP, CUDA C ... |
-| **Research Tools** | Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.|
+- [x] **Scientific programming** 
+    - FORTRAN, Python, C, C++ ...
+- [x] **Scripting Language**  
+    - Python, Bash ...
+- [x] **High-performance computations**  
+    - OpenMP, CUDA C ...
+- [x] **Research Tools**  
+    - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
 
 
 ## List of publications 
