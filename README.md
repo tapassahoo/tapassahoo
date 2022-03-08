@@ -34,7 +34,7 @@
 | **Department of Chemistry, University of Waterloo, Canada** | Postdoctoral Fellow | November 1, 2016 | December 30, 2017 |
 | **Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel** | Postdoctoral Fellow | July 6, 2014 |July 6, 2016 |
     
-## Research interests
+## ⚡ Research interests
 
 - [x] Quantum molecular dynamics of many–body systems, mathematical modelling, algorithmic developments and high performance computing simulations of complex molecular systems.  
 - [x] Estimation of thermodynamic as well as ground state properties of many–body systems by em- ploying Path Integral Monte Carlo methodology.
