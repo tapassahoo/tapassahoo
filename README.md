@@ -2,7 +2,7 @@
 
 My short CV is given below - 
 
-## Education qualifications
+## Educational qualifications
 - [x] B.Sc (Hons) in Chemistry (2002-2006)
     - Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta.
 - [x] M.Sc in Chemistry (Physical) (2006-2008)
