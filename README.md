@@ -38,7 +38,7 @@ My short CV is given below -
 
 ## Key skills
 
-| Command | Description |
+| Detailed Description |
 | --- | --- |
 | **Scientific programming** | FORTRAN, Python, C, C++ ... |
 | **Scripting Language** | Python, Bash ... |
