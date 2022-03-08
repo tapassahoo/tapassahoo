@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Education qualifications
+- [x] B.Sc (Hons) in Chemistry (2002-2006) -- Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta.
+
 ## My research interests are given below: 
 
 - [x] Quantum molecular dynamics of many–body systems, mathematical modelling, algorithmic developments and high performance computing simulations of complex molecular systems.  
