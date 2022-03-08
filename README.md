@@ -39,6 +39,8 @@ My short CV is given below -
 - [x] Research Tools:
     - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
 
+## For my list of publications, visit  
+
 
   
 
