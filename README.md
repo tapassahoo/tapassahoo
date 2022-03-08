@@ -4,20 +4,14 @@ My short CV is given below -
 
 ## Educational qualifications
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Degree passed | Year of passing | University / Institution |
+| --- | --- | ---|
+| **B.Sc (Hons) in Chemistry** | 2006 | Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta. |
+| **M.Sc in Chemistry (Physical)** | 2008 |University College of Science, Technology & Agriculture, University of Calcutta |
+| **Ph.D. in Chemistry (Physical)** |January, 2015|Indian Association for the Cultivation of Science, University of Calcutta|
 
-## Educational qualifications
-- [x] B.Sc (Hons) in Chemistry (2002-2006)
-    - Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta.
-- [x] M.Sc in Chemistry (Physical) (2006-2008)
-    - University College of Science, Technology & Agriculture, University of Calcutta
-- [x] Ph.D. in Chemistry (Physical) (October, 2008-January, 2015)
-    - Indian Association for the Cultivation of Science, University of Calcutta
-    - Ph.D. thesis: “Surface temperature effect on the molecule-surface scattering processes and reactive scattering for triatomic system”.
-    - Ph.D supervisor: Professor Satrajit Adhikari  
+- [x] **Ph.D. thesis**: *Surface temperature effect on the molecule-surface scattering processes and reactive scattering for triatomic system*.
+- [x] **Ph.D supervisor**: *Professor Satrajit Adhikari*.
 
 ## Academic positions held
 - [x] Postdoctoral Fellow, Department of Chemistry (August 21, 2019-August 31, 2021)
