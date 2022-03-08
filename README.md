@@ -10,16 +10,18 @@ My short CV is given below -
 - [x] Indian Citizen.
 
 
-## Educational qualifications
+## Academic details
 
-| Degree passed | Year of passing | University / Institution |
+| Discipline | Year of passing | University / Institution |
 | --- | --- | ---|
 | **B.Sc (Hons) in Chemistry** | 2006 | Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta. |
 | **M.Sc in Chemistry (Physical)** | 2008 |University College of Science, Technology & Agriculture, University of Calcutta |
-| **Ph.D. in Chemistry (Physical)** |January, 2015|Indian Association for the Cultivation of Science, University of Calcutta|
 
-- [x] **Ph.D. thesis**: *Surface temperature effect on the molecule-surface scattering processes and reactive scattering for triatomic system*.
-- [x] **Ph.D supervisor**: *Professor Satrajit Adhikari*.
+## Doctoral work
+
+| Discipline | Thesis title | Research guide |Institute| Year | Status|
+| --- | --- | ---| --- | --- |---|
+| **Ph.D. in Chemistry (Physical)** |Surface temperature effect on the molecule-surface scattering processes and reactive scattering for triatomic system | Professor Satrajit Adhikari | Indian Association for the Cultivation of Science, University of Calcutta | January, 2015 | Awarded |
 
 ## Academic positions held
 
