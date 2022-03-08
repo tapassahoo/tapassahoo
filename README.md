@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## Education qualifications
-- [x] B.Sc (Hons) in Chemistry (2002-2006) -- Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta.
+- [x] B.Sc (Hons) in Chemistry (2002-2006)
+    - Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta.
 
 ## My research interests are given below: 
 
