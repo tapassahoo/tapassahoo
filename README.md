@@ -3,6 +3,12 @@
 ## Education qualifications
 - [x] B.Sc (Hons) in Chemistry (2002-2006)
     - Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta.
+- [x] M.Sc in Chemistry (Physical) (2006-2008)
+    - University College of Science, Technology & Agriculture, University of Calcutta
+- [x] Ph.D. in Chemistry (Physical) (October, 2008-January, 2015)
+    - [ ] Indian Association for the Cultivation of Science, University of Calcutta
+    - [ ] Ph.D. thesis: “Surface temperature effect on the molecule-surface scattering processes and reactive scattering for triatomic system”.
+    - [ ] Ph.D supervisor: Professor Satrajit Adhikari  
 
 ## My research interests are given below: 
 
