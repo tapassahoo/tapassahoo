@@ -37,14 +37,14 @@ My short CV is given below -
 - [x] Electronic structure calculations of bio-molecules. 
 
 ## Key skills
-- [x] Scientific programming:
-    - FORTRAN, Python, C, C++ ...
-- [x] Scripting Language:
-    - Python, Bash...
-- [x] High-performance computations:
-    - OpenMP, CUDA C    
-- [x] Research Tools:
-    - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
+
+| Command | Description |
+| --- | --- |
+| `Scientific programming` | FORTRAN, Python, C, C++ ... |
+| `Scripting Language` | Python, Bash ... |
+| `High-performance computations` | OpenMP, CUDA C ... |
+| `Research Tools` | Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.|
+
 
 ## List of publications 
    click [here.](https://www.scopus.com/authid/detail.uri?authorId=38362202800&featureToggles=FEATURE_AUTHOR_DETAILS_BOTOX:1&at_feature_toggle=1)
