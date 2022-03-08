@@ -41,6 +41,10 @@ My short CV is given below -
 
 ## List of publications 
    click [here.](https://www.scopus.com/authid/detail.uri?authorId=38362202800&featureToggles=FEATURE_AUTHOR_DETAILS_BOTOX:1&at_feature_toggle=1)
+   
+   
+## Contact me through 
+   tapascuchem@gmail.com
 
 
 
