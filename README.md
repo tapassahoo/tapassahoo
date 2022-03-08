@@ -4,28 +4,28 @@
 **I'm Dr. Tapas Sahoo**
 
 
-## Present academic position
+## ⚡ Present academic position
 - [x] Visiting Scientist, Department of Chemistry, University of Waterloo, Canada.
     
-## Personal
+## ⚡ Personal
 - [x] Born on January 15, 1984. 
 - [x] Indian Citizen.
 
 
-## Academic details
+## ⚡ Academic details
 
 | Discipline | Year of passing | University / Institution |
 | --- | --- | ---|
 | **B.Sc (Hons) in Chemistry** | 2006 | Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta. |
 | **M.Sc in Chemistry (Physical)** | 2008 |University College of Science, Technology & Agriculture, University of Calcutta |
 
-## Doctoral work
+## ⚡ Doctoral work
 
 | Discipline | Thesis title | Research guide |Institute| Year | Status|
 | --- | --- | ---| --- | --- |---|
 | **Ph.D. in Chemistry (Physical)** |Surface temperature effect on the molecule-surface scattering processes and reactive scattering for triatomic system | Professor Satrajit Adhikari | Indian Association for the Cultivation of Science, University of Calcutta | January, 2015 | Awarded |
 
-## Academic positions held
+## ⚡ Academic positions held
 
 | University | Position held | Date of joining | Date of leaving |
 | --- | --- | ---| ---|
@@ -41,7 +41,7 @@
 - [x] Theoretical development of atom–surface scattering by classical and semi-classical perturbation theories.
 - [x] Electronic structure calculations of bio-molecules. 
 
-## Key skills
+## ⚡ Key skills
 
 - [x] **Scientific programming** 
     - FORTRAN, Python, C, C++ ...
@@ -53,11 +53,11 @@
     - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
 
 
-## List of publications 
+## ⚡ List of publications 
    click [here.](https://www.scopus.com/authid/detail.uri?authorId=38362202800&featureToggles=FEATURE_AUTHOR_DETAILS_BOTOX:1&at_feature_toggle=1)
    
    
-## Contact me through 
+## ⚡ Contact me 
    tapascuchem@gmail.com
 
 
