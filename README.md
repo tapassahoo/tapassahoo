@@ -40,10 +40,10 @@ My short CV is given below -
 
 | Command | Description |
 | --- | --- |
-| `Scientific programming` | FORTRAN, Python, C, C++ ... |
-| `Scripting Language` | Python, Bash ... |
-| `High-performance computations` | OpenMP, CUDA C ... |
-| `Research Tools` | Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.|
+| **Scientific programming** | FORTRAN, Python, C, C++ ... |
+| **Scripting Language** | Python, Bash ... |
+| **High-performance computations** | OpenMP, CUDA C ... |
+| **Research Tools** | Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.|
 
 
 ## List of publications 
