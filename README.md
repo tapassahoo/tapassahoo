@@ -5,7 +5,28 @@
 - [x] Quantum molecular dynamics of many–body systems, mathematical modelling, algorithmic developments and high performance computing simulations of complex molecular systems.  
 - [x] Estimation of thermodynamic as well as ground state properties of many–body systems by em- ploying Path Integral Monte Carlo methodology.
 - [x] Theoretical development of atom–surface scattering by classical and semi-classical perturbation theories.
-- [ ] Electronic structure calculations of bio-molecules. 
+- [x] Electronic structure calculations of bio-molecules. 
+
+## Key skills
+
+- [x] Scientific programming:
+```
+FORTRAN, Python, C, C++ ...
+```
+
+- [x] Scripting Language:
+```
+Python, Bash...
+```
+- [x] High-performance computations:
+```
+OpenMP, CUDA C
+```
+- [x] Research Tools:
+```
+Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
+```
+
   
 
 <!--
