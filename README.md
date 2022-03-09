@@ -52,6 +52,8 @@
     - OpenMP, CUDA C ...
 - [x] **Research Tools**  
     - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
+- [x] **Writting tool**
+    - LaTeX, TikZ 
 
 
 ## ⚡ List of publications 
