@@ -1,4 +1,4 @@
-# Welcome to my `Github` page
+# WELCOME TO MY GITHUB PAGE
 
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there!     
 **I'm Dr. Tapas Sahoo**
