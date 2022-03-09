@@ -18,6 +18,7 @@
 | --- | --- | ---|
 | **B.Sc (Hons) in Chemistry** | 2006 | Ramakrishna Mission Vivekananda Centenary College, Rahara, University of Calcutta. |
 | **M.Sc in Chemistry (Physical)** | 2008 |University College of Science, Technology & Agriculture, University of Calcutta |
+| **Joint CSIR-UGC Test for JRF under CSIR Scheme in Chemical Sciences** | 2008 | University of College of Science, Technology & Agriculture |
 
 ## ⚡ Doctoral work
 
