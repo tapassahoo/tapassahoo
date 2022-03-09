@@ -1,6 +1,6 @@
-# WELCOME TO MY `Github` PAGE
+# Welcome to my *homepage*
 
-##  Hi there!     
+## ⚡ Hi there!     
 **I am Dr. Tapas Sahoo.**<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
