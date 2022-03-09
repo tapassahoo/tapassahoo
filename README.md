@@ -55,8 +55,9 @@
 
 
 ## ⚡ List of publications 
-- [x] click [here.](https://www.scopus.com/authid/detail.uri?authorId=38362202800&featureToggles=FEATURE_AUTHOR_DETAILS_BOTOX:1&at_feature_toggle=1)
-   
+- [x] Click [Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800&featureToggles=FEATURE_AUTHOR_DETAILS_BOTOX:1&at_feature_toggle=1)
+- [x] Click [Google Scholar](https://scholar.google.com/citations?hl=en&user=543UGZsAAAAJ)
+- [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268) 
    
 ## ⚡ Contact me 
 - [x] tapascuchem@gmail.com
