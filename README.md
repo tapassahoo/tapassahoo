@@ -1,7 +1,7 @@
 # WELCOME TO MY `Github` PAGE
 
 ##  Hi there!     
-**I am Dr. Tapas Sahoo!**<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+**I am Dr. Tapas Sahoo.**<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 ## ⚡ Present academic position
