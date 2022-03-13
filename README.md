@@ -65,6 +65,9 @@
 ## ⚡ Contact me 
 - [x] tapascuchem@gmail.com
 
+## ⚡ Some important links 
+- [x] [Latest IF](https://academic-accelerator.com/Impact-of-Journal/Molecular-Physics)
+
 
 
 
