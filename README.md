@@ -66,7 +66,7 @@
 - [x] tapascuchem@gmail.com
 
 ## ⚡ Some important links 
-- [x] [Latest IF](https://academic-accelerator.com/Impact-of-Journal/Molecular-Physics)
+- [x] [Journal's IF and H-index are listed here.](https://academic-accelerator.com/Impact-of-Journal/Molecular-Physics)
 
 
 
