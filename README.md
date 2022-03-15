@@ -1,4 +1,4 @@
-# ⚡ Sahoo Research Group<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+# ⚡ Welcome to Sahoo's Github<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 ## ⚡ About me    
 - [x] I am Dr. Tapas Sahoo.
