@@ -70,6 +70,7 @@
 - [x] [Journal's IF and H-index are listed here.](https://academic-accelerator.com/Impact-of-Journal/Molecular-Physics)
 - [x] [Journal's h5-index](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=journal+of+physical+Chemistry+A&btnG=)
 - [x] [SCI-HUB](https://sci-hub.hkvisa.net)
+- [x] [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 
 
 
