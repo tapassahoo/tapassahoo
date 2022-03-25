@@ -72,7 +72,7 @@
 - [x] [SCI-HUB](https://sci-hub.hkvisa.net)
 - [x] [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 
-## Some important tutorials
+## ⚡ Some important programming tutorials
 - [x] [Julia wikibook](https://en.wikibooks.org/wiki/Introducing_Julia/print#Introduction)
 - [x] [Julia tutorial](https://julialang.org/learning/tutorials/)
 - [x] [C++ tutorial](https://www.javatpoint.com/cpp-this-pointer)
