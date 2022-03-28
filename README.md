@@ -12,7 +12,7 @@
 - [x] Indian Citizen.
 
 
-## ⚡ Details of educational qualifications
+## ⚡ Educational qualifications
 
 | Discipline | Year of passing | University / Institution |
 | --- | --- | ---|
