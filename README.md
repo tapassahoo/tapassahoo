@@ -78,6 +78,10 @@
 - [x] [C++ tutorial](https://www.javatpoint.com/cpp-this-pointer)
 - [x] [C++ tutorial](https://www.studytonight.com/cpp/cpp-and-oops-concepts.php)
 
+## ⚡ Get a Bib Entry from a DOI
+
+- [x] If you have a paper that has a DOI and wish to obtain a bib entry you can type the DOI into [doi2bib](https://www.doi2bib.org) or [DOI to BibTeX converter](https://www.bibtex.com/c/doi-to-bibtex-converter/). I use [doi2bib](https://www.doi2bib.org) rather than download bib entries from publisher websites, as I find the results are more reliable.
+
 
 
 
