@@ -36,16 +36,14 @@
 | **Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel** | Postdoctoral Fellow | July 6, 2014 |July 6, 2016 |
     
 ## ⚡ Research interests
-
 - [x] Quantum molecular dynamics of many–body systems, mathematical modelling, algorithmic developments and high performance computing simulations of complex molecular systems.  
 - [x] Estimation of thermodynamic as well as ground state properties of many–body systems by em- ploying Path Integral Monte Carlo methodology.
 - [x] Theoretical development of atom–surface scattering by classical and semi-classical perturbation theories.
 - [x] Electronic structure calculations of bio-molecules. 
 
 ## ⚡ Key skills
-
 - [x] **Scientific programming** 
-    - FORTRAN, Python, C, C++ ...
+    - FORTRAN, Python, C, C++, Julua ...
 - [x] **Scripting Language**  
     - Python, Bash ...
 - [x] **High-performance computations**  
@@ -56,7 +54,7 @@
     - LaTeX, TikZ 
 
 
-## ⚡ List of publications 
+## ⚡ Publications 
 - [x] Click [ResearchGate](https://www.researchgate.net/profile/Tapas-Sahoo-5/research)
 - [x] Click [Google Scholar](https://scholar.google.com/citations?hl=en&user=543UGZsAAAAJ)
 - [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268) 
@@ -65,22 +63,22 @@
 ## ⚡ Contact me 
 - [x] tapascuchem@gmail.com
 
-## ⚡ Some important links 
+## ⚡ Some important links to get journal informations
 - [x] Journal's IF listed in [Scimago Journal & Country Rank](https://www.scimagojr.com/journalsearch.php?q=26927&tip=sid&clean=0)
 - [x] [Journal's IF and H-index are listed here.](https://academic-accelerator.com/Impact-of-Journal/Molecular-Physics)
 - [x] [Journal's h5-index](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=journal+of+physical+Chemistry+A&btnG=)
 - [x] [SCI-HUB](https://sci-hub.hkvisa.net)
 - [x] [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 
-## ⚡ Some important programming tutorials
+## ⚡ Programming language tutorials
 - [x] [Julia wikibook](https://en.wikibooks.org/wiki/Introducing_Julia/print#Introduction)
 - [x] [Julia tutorial](https://julialang.org/learning/tutorials/)
 - [x] [C++ tutorial](https://www.javatpoint.com/cpp-this-pointer)
 - [x] [C++ tutorial](https://www.studytonight.com/cpp/cpp-and-oops-concepts.php)
 
-## ⚡ Get a Bib Entry from a DOI
-
+## ⚡ [Get a Bib Entry from a DOI](https://nhigham.com/category/latex/)
 - [x] If you have a paper that has a DOI and wish to obtain a bib entry you can type the DOI into [doi2bib](https://www.doi2bib.org) or [DOI to BibTeX converter](https://www.bibtex.com/c/doi-to-bibtex-converter/). I use [doi2bib](https://www.doi2bib.org) rather than download bib entries from publisher websites, as I find the results are more reliable.
+
 
 
 
