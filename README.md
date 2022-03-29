@@ -54,7 +54,8 @@
     - LaTeX, TikZ 
 
 
-## ⚡ Publications 
+## ⚡ Publications
+- [x] Click the [link](https://github.com/tapassahoo/write-ups/blob/master/for-academic-position/cv-in-latex/list-of-publications.pdf)
 - [x] Click [ResearchGate](https://www.researchgate.net/profile/Tapas-Sahoo-5/research)
 - [x] Click [Google Scholar](https://scholar.google.com/citations?hl=en&user=543UGZsAAAAJ)
 - [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268) 
