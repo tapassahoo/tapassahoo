@@ -61,7 +61,7 @@
 <!-- - [x] Click [Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800)-->
 
 ## ⚡ Presentation
-- [x] [Quantum molecular motion]() 
+- [x] [Quantum molecular motion](https://github.com/tapassahoo/write-ups/blob/master/for-academic-position/presentation-in-latex/talk-tapas-sahoo.pdf) 
    
 ## ⚡ Contact me 
 - [x] tapascuchem@gmail.com
