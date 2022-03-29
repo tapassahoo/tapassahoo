@@ -1,6 +1,6 @@
 # ⚡ Welcome to Sahoo's Github<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-## ⚡ About me    
+## ⚡ [About me](https://github.com/tapassahoo/write-ups/blob/master/for-academic-position/cv-in-latex/CV-Tapas-Sahoo.pdf)    
 - [x] I am Dr. Tapas Sahoo.
 
 
