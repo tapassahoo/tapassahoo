@@ -37,9 +37,11 @@
     
 ## ⚡ Research interests
 - [x] Quantum molecular dynamics of many–body systems, mathematical modelling, algorithmic developments and high performance computing simulations of complex molecular systems.  
-- [x] Estimation of thermodynamic as well as ground state properties of many–body systems by em- ploying Path Integral Monte Carlo methodology.
+- [x] Estimation of thermodynamic as well as ground state properties of many–body systems by employing Path Integral Monte Carlo methodology.
 - [x] Theoretical development of atom–surface scattering by classical and semi-classical perturbation theories.
 - [x] Electronic structure calculations of bio-molecules. 
+- [x] Theromodynamics phase transition employing Path Integral Quantum Monte Carlo. 
+- [x] Quantum phase transition. 
 
 ## ⚡ Key skills
 - [x] **Scientific programming** 
@@ -51,8 +53,7 @@
 - [x] **Research Tools**  
     - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
 - [x] **Writting tool**
-    - LaTeX, TikZ 
-
+    - LaTeX, Lyx, TikZ 
 
 ## ⚡ Publications
 - [x] Click the [link](https://github.com/tapassahoo/write-ups/blob/master/for-academic-position/cv-in-latex/list-of-publications.pdf)
