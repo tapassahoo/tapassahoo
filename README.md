@@ -72,7 +72,6 @@
 - [x] [Journal's IF and H-index are listed here.](https://academic-accelerator.com/Impact-of-Journal/Molecular-Physics)
 - [x] [Journal's h5-index](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=journal+of+physical+Chemistry+A&btnG=)
 - [x] [SCI-HUB](https://sci-hub.hkvisa.net)
-- [x] [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 
 ## ⚡ [Get a Bib Entry from a DOI](https://nhigham.com/category/latex/)
 - [x] If you have a paper that has a DOI and wish to obtain a bib entry you can type the DOI into [doi2bib](https://www.doi2bib.org) or [DOI to BibTeX converter](https://www.bibtex.com/c/doi-to-bibtex-converter/). I use [doi2bib](https://www.doi2bib.org) rather than download bib entries from publisher websites, as I find the results are more reliable.
