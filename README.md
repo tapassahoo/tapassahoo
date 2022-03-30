@@ -3,14 +3,12 @@
 ## ⚡ [About me](https://github.com/tapassahoo/write-ups/blob/master/for-academic-position/cv-in-latex/CV-Tapas-Sahoo.pdf)    
 - [x] I am Dr. Tapas Sahoo.
 
-
 ## ⚡ Present academic position
 - [x] Visiting Scientist, Department of Chemistry, University of Waterloo, Canada.
     
 ## ⚡ Personal
 - [x] Born on January 15, 1984. 
 - [x] Indian Citizen.
-
 
 ## ⚡ Educational qualifications
 
@@ -53,7 +51,7 @@
 - [x] **Research Tools**  
     - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
 - [x] **Writting tool**
-    - LaTeX, Lyx, TikZ 
+    - LaTeX, LyX, TikZ 
 
 ## ⚡ Publications
 - [x] Click the [link](https://github.com/tapassahoo/write-ups/blob/master/for-academic-position/cv-in-latex/list-of-publications.pdf)
