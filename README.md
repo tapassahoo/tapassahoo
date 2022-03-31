@@ -77,7 +77,7 @@
 
 ## ⚡ [Macs in Chemistry](https://www.macinchem.org)
 
-## [WolframAlpha](https://www.wolframalpha.com/input?i2d=true&i=D%5BPower%5Bx%2C2%5D%2Cx%5D)
+## ⚡ [Wolfram|Alpha](https://www.wolframalpha.com/input?i2d=true&i=D%5BPower%5Bx%2C2%5D%2Cx%5D)
 
 
 
