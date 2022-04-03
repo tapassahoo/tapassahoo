@@ -61,7 +61,7 @@
 <!-- - [x] Click [Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800)-->
 
 ## ⚡ Presentation
-- [x] [Quantum molecular motion](https://github.com/tapassahoo/write-ups/blob/master/for-academic-position/presentation-in-latex/talk-tapas-sahoo.pdf) 
+- [x] [Quantum molecular motion](https://github.com/tapassahoo/Academic-Writting/blob/master/for-academic-position/presentation-in-latex/talk-tapas-sahoo.pdf) 
    
 ## ⚡ Contact me 
 - [x] tapascuchem@gmail.com
@@ -71,9 +71,6 @@
 - [x] [Journal's IF and H-index are listed here.](https://academic-accelerator.com/Impact-of-Journal/Molecular-Physics)
 - [x] [Journal's h5-index](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=journal+of+physical+Chemistry+A&btnG=)
 - [x] [SCI-HUB](https://sci-hub.hkvisa.net)
-
-## ⚡ [Get a Bib Entry from a DOI](https://nhigham.com/category/latex/)
-- [x] If you have a paper that has a DOI and wish to obtain a bib entry you can type the DOI into [doi2bib](https://www.doi2bib.org) or [DOI to BibTeX converter](https://www.bibtex.com/c/doi-to-bibtex-converter/). I use [doi2bib](https://www.doi2bib.org) rather than download bib entries from publisher websites, as I find the results are more reliable.
 
 ## ⚡ [Macs in Chemistry](https://www.macinchem.org)
 
