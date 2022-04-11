@@ -2,6 +2,8 @@
 
 ## ⚡ [About me](https://github.com/tapassahoo/Academic-Writting/blob/master/for-academic-position/cv-in-latex/cv-tapas-sahoo.pdf)    
 - [x] I am Dr. Tapas Sahoo.
+- [x] [My CV is attached here.](https://github.com/tapassahoo/tapassahoo/files/8464962/cv-tapas-sahoo.pdf)
+
 
 ## ⚡ Present academic position
 - [x] Visiting Scientist, Department of Chemistry, University of Waterloo, Canada.
@@ -54,7 +56,7 @@
     - LaTeX, LyX, PGF/TikZ. 
 
 ## ⚡ Publications
-- [x] Click the [link](https://github.com/tapassahoo/Academic-Writting/blob/master/for-academic-position/cv-in-latex/list-of-publications-tapas-sahoo.pdf)
+- [x] Click the [link](https://github.com/tapassahoo/tapassahoo/files/8464943/list-of-publications-tapas-sahoo.pdf)
 - [x] Click [ResearchGate](https://www.researchgate.net/profile/Tapas-Sahoo-5/research)
 - [x] Click [Google Scholar](https://scholar.google.com/citations?hl=en&user=543UGZsAAAAJ)
 - [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268) 
@@ -96,4 +98,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[list-of-publications-tapas-sahoo.pdf](https://github.com/tapassahoo/tapassahoo/files/8464943/list-of-publications-tapas-sahoo.pdf)
+
