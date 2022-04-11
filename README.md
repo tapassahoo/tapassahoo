@@ -43,15 +43,15 @@
 
 ## ⚡ Key skills
 - [x] **Scientific programming** 
-    - FORTRAN, Python, C, C++, Julua ...
+    - FORTRAN, Python, C, C++, Julua, netCDF ...
 - [x] **Scripting Language**  
     - Python, Bash ...
 - [x] **High-performance computations**  
-    - OpenMP, CUDA C ...
+    - OpenMP, MPI, CUDA C ...
 - [x] **Research Tools**  
     - Mathematica, Maple, Visual Molecular Dynamics, MoRiBS, MMTK, PySCF, ORCA and many more.
 - [x] **Writting tool**
-    - LaTeX, LyX, TikZ 
+    - LaTeX, LyX, PGF/TikZ. 
 
 ## ⚡ Publications
 - [x] Click the [link](https://github.com/tapassahoo/Academic-Writting/blob/master/for-academic-position/cv-in-latex/list-of-publications-tapas-sahoo.pdf)
