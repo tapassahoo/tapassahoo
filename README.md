@@ -1,9 +1,7 @@
 # ⚡ Welcome to Sahoo's Github<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 ## ⚡ About me    
-- [x] I am Dr. Tapas Sahoo.
-- [x] [My CV is attached here.](https://github.com/tapassahoo/tapassahoo/files/8464962/cv-tapas-sahoo.pdf)
-
+- [x] I am Dr. Tapas Sahoo.[Resume](https://github.com/tapassahoo/tapassahoo/files/8494997/cv-tapas-sahoo.pdf)
 
 ## ⚡ Present academic position
 - [x] Visiting Scientist, Department of Chemistry, University of Waterloo, Canada.
@@ -62,9 +60,9 @@
 - [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268) 
 <!-- - [x] Click [Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800)-->
 
-## ⚡ Presentation
-- [x] [Quantum molecular motion](https://github.com/tapassahoo/Academic-Writting/blob/master/for-academic-position/presentation-in-latex/talk-tapas-sahoo.pdf) 
-   
+## ⚡ Oral presentation
+- [x] [Quantum Molecular Motion](https://github.com/tapassahoo/tapassahoo/files/8495023/cv-tapas-sahoo.pdf)
+
 ## ⚡ Contact me 
 - [x] tapascuchem@gmail.com
 
