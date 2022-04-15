@@ -1,7 +1,8 @@
 # ⚡ Welcome to Sahoo's Github<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 ## ⚡ About me    
-- [x] I am Dr. Tapas Sahoo.[Resume](https://github.com/tapassahoo/tapassahoo/files/8494997/cv-tapas-sahoo.pdf)
+- [x] I am Dr. Tapas Sahoo.
+- [x] [CV is attached here.](https://github.com/tapassahoo/tapassahoo/files/8494997/cv-tapas-sahoo.pdf)
 
 ## ⚡ Present academic position
 - [x] Visiting Scientist, Department of Chemistry, University of Waterloo, Canada.
