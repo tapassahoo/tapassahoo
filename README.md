@@ -2,7 +2,9 @@
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
 ## ⚡ About Me    
-- [x] I am Dr. Tapas Sahoo.
+- [x] I earned a Ph.D. degree in Chemistry (Physical) from the Indian Association for the Cultivation of Science, Kolkata, in 2015. My thesis title is ’Surface temperature effect on the molecule- surface scattering processes and reactive scattering for the triatomic system.’ In addition to my research during my Ph.D., I had an opportunity to teach a computer programming course for integrated master’s students. This experience boosted me to learn the best teaching practices, critical thinking, and creativity skills.
+- [ ] 
+Since November 2016, I have been working as a Postdoctoral Fellow at the University of Waterloo, Canada. My duties include quantum molecular dynamics research, mathematical modelling, algorithmic developments, and high-performance computing simulations of complex molecular systems. Moreover, before this position, I had acquired postdoc research at the Weizmann Institute of Science for two years. We have developed a theoretical formalism of atom-surface scattering using second-order classical perturbation theory.
 
 ## ⚡ Present Academic Position
 - [x] Post Doctoral Research Associate-III \
