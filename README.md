@@ -1,4 +1,5 @@
-# ⚡ Welcome to Sahoo's Github<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+# ⚡ Welcome to Sahoo's Github
+<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
 ## ⚡ About Me    
 - [x] I am Dr. Tapas Sahoo.
@@ -31,6 +32,7 @@ Kolkata - 700106, India
 
 | University | Position held | Date of joining | Date of leaving |
 | --- | --- | ---| ---|
+| **Department of Chemical, Biological and Macro Molecular Sciences, S. N. Bose National Centre for Basic Sciences, India** | Post Doctoral Research Associate-III | May 10, 2022 | Till date |
 | **Department of Chemistry, University of Waterloo, Canada** | Postdoctoral Fellow | August 21, 2019 | August 31, 2021 |
 | **Department of Chemistry, University of Waterloo, Canada** | Postdoctoral Fellow | June 8, 2018 | October 7, 2018 |
 | **Department of Chemistry, University of Waterloo, Canada** | Postdoctoral Fellow | November 1, 2016 | December 30, 2017 |
