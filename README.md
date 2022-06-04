@@ -1,18 +1,19 @@
 # ⚡ Welcome to Sahoo's Github<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-## ⚡ About me    
+## ⚡ About Me    
 - [x] I am Dr. Tapas Sahoo.
 
-## ⚡ Present academic position
-- [x] Post Doctoral Research Associate-III
-Department of Chemical, Biological and Macro Molecular Sciences S. N. Bose National Centre for Basic Sciences
+## ⚡ Present Academic Position
+- [x] Post Doctoral Research Associate-III \
+Department of Chemical, Biological and Macro Molecular Sciences \
+S. N. Bose National Centre for Basic Sciences \
 Kolkata - 700106, India
     
 ## ⚡ Personal
 - [x] Born on January 15, 1984. 
 - [x] Indian Citizen.
 
-## ⚡ Educational qualifications
+## ⚡ Educational Qualifications
 
 | Discipline | Year of passing | University / Institution |
 | --- | --- | ---|
@@ -20,13 +21,13 @@ Kolkata - 700106, India
 | **M.Sc in Chemistry (Physical)** | 2008 |University College of Science, Technology & Agriculture, University of Calcutta |
 | **Joint CSIR-UGC Test for JRF under CSIR Scheme in Chemical Sciences** | 2008 | University of College of Science, Technology & Agriculture |
 
-## ⚡ Doctoral work
+## ⚡ Doctoral Work
 
 | Discipline | Thesis title | Research guide |Institute| Year | Status|
 | --- | --- | ---| --- | --- |---|
 | **Ph.D. in Chemistry (Physical)** |Surface temperature effect on the molecule-surface scattering processes and reactive scattering for triatomic system | Professor Satrajit Adhikari | Indian Association for the Cultivation of Science, University of Calcutta | January, 2015 | Awarded |
 
-## ⚡ Academic positions held
+## ⚡ Academic Positions Held
 
 | University | Position held | Date of joining | Date of leaving |
 | --- | --- | ---| ---|
@@ -35,7 +36,7 @@ Kolkata - 700106, India
 | **Department of Chemistry, University of Waterloo, Canada** | Postdoctoral Fellow | November 1, 2016 | December 30, 2017 |
 | **Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel** | Postdoctoral Fellow | July 6, 2014 |July 6, 2016 |
     
-## ⚡ Research interests
+## ⚡ Research Interests
 - [x] Quantum molecular dynamics of many–body systems, mathematical modelling, algorithmic developments and high performance computing simulations of complex molecular systems.  
 - [x] Estimation of thermodynamic as well as ground state properties of many–body systems by employing Path Integral Monte Carlo methodology.
 - [x] Theoretical development of atom–surface scattering by classical and semi-classical perturbation theories.
@@ -43,7 +44,7 @@ Kolkata - 700106, India
 - [x] Theromodynamics phase transition employing Path Integral Quantum Monte Carlo. 
 - [x] Quantum phase transition. 
 
-## ⚡ Key skills
+## ⚡ Key Skills
 - [x] **Scientific programming** 
     - FORTRAN, Python, C, C++, Julia, netCDF ...
 - [x] **Scripting Language**  
@@ -62,13 +63,13 @@ Kolkata - 700106, India
 - [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268) 
 <!-- - [x] Click [Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800)-->
 
-## ⚡ Oral presentation
+## ⚡ Oral Presentation
 - [x] [Quantum Molecular Motion](https://github.com/tapassahoo/tapassahoo/files/8495042/talk-tapas-sahoo.pdf)
 
-## ⚡ Contact me 
+## ⚡ Contact Me 
 - [x] tapascuchem@gmail.com
 
-## ⚡ Some important links to get journal informations
+## ⚡ Some Important Links to Get Journal Informations
 - [x] Journal's IF listed in [Scimago Journal & Country Rank](https://www.scimagojr.com/journalsearch.php?q=26927&tip=sid&clean=0)
 - [x] [Journal's IF and H-index are listed here.](https://academic-accelerator.com/Impact-of-Journal/Molecular-Physics)
 - [x] [Journal's h5-index](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=journal+of+physical+Chemistry+A&btnG=)
