@@ -69,7 +69,8 @@ Kolkata - 700106, India
 - [x] [Quantum Molecular Motion](https://github.com/tapassahoo/tapassahoo/files/8495042/talk-tapas-sahoo.pdf)
 
 ## ⚡ Contact Me 
-- [x] tapascuchem@gmail.com
+- [X] tapascuchem@gmail.com
+- [X] tsahoo@bose.res.in
 
 ## ⚡ Some Important Links to Get Journal Informations
 - [x] Journal's IF listed in [Scimago Journal & Country Rank](https://www.scimagojr.com/journalsearch.php?q=26927&tip=sid&clean=0)
