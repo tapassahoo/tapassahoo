@@ -2,10 +2,11 @@
 
 ## ⚡ About me    
 - [x] I am Dr. Tapas Sahoo.
-- [x] [CV is attached here.](https://github.com/tapassahoo/tapassahoo/files/8494997/cv-tapas-sahoo.pdf)
 
 ## ⚡ Present academic position
-- [x] Visiting Scientist, Department of Chemistry, University of Waterloo, Canada.
+- [x] Post Doctoral Research Associate-III
+Department of Chemical, Biological and Macro Molecular Sciences S. N. Bose National Centre for Basic Sciences
+Kolkata - 700106, India
     
 ## ⚡ Personal
 - [x] Born on January 15, 1984. 
