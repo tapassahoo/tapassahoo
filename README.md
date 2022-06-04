@@ -65,8 +65,8 @@ Kolkata - 700106, India
 - [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268) 
 <!-- - [x] Click [Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800)-->
 
-## ⚡ Oral Presentation
-- [x] [Quantum Molecular Motion](https://github.com/tapassahoo/tapassahoo/files/8495042/talk-tapas-sahoo.pdf)
+## ⚡ Oral Presentations
+- [X] [A Path Integral Ground State Approach for Asymmetric Top Rotors with Nuclear Spin Symmetry](https://github.com/tapassahoo/tapassahoo/files/8837059/talk-research-summary-tapas-sahoo.pdf)
 
 ## ⚡ Contact Me 
 - [X] tapascuchem@gmail.com
@@ -78,9 +78,10 @@ Kolkata - 700106, India
 - [x] [Journal's h5-index](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=journal+of+physical+Chemistry+A&btnG=)
 - [x] [SCI-HUB](https://sci-hub.hkvisa.net)
 
-## ⚡ [Macs in Chemistry](https://www.macinchem.org)
+## ⚡ [MACOS in Chemistry](https://www.macinchem.org)
 
 ## ⚡ [Wolfram|Alpha](https://www.wolframalpha.com/input?i2d=true&i=D%5BPower%5Bx%2C2%5D%2Cx%5D)
+
 
 
 
