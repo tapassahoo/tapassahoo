@@ -62,8 +62,8 @@ Kolkata - 700106, India
 - [x] Click the [link](https://github.com/tapassahoo/tapassahoo/files/8464943/list-of-publications-tapas-sahoo.pdf)
 - [x] Click [ResearchGate](https://www.researchgate.net/profile/Tapas-Sahoo-5/research)
 - [x] Click [Google Scholar](https://scholar.google.com/citations?hl=en&user=543UGZsAAAAJ)
-- [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268) 
-<!-- - [x] Click [Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800)-->
+- [x] Click [ORCiD](https://orcid.org/0000-0001-8524-2268)  
+- [X] Click [Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800)
 
 ## ⚡ Oral Presentations
 - [X] [A Path Integral Ground State Approach for Asymmetric Top Rotors with Nuclear Spin Symmetry](https://github.com/tapassahoo/tapassahoo/files/8837059/talk-research-summary-tapas-sahoo.pdf)
