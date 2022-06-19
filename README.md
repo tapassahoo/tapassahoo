@@ -1,4 +1,4 @@
-# ⚡ _Welcome to Dr. Sahoo's Github_
+# ⚡ _Welcome to Dr. Sahoo's GitHub_
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
 ## ⚡ About Me    
