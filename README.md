@@ -4,6 +4,15 @@
 ## ⚡ About Me    
 Hello! I'm Dr. Tapas Sahoo, a Postdoctoral Research Associate at the S. N. Bose National Centre for Basic Sciences in Kolkata, India. With a rich background in quantum molecular dynamics, my research focuses on simulations for complex molecular systems, leveraging mathematical modeling and high-performance computing.
 
+🔬 My research interests are broad yet specialized. They include quantum molecular dynamics of many-body systems, computation of entanglement entropy for confined molecular systems, and estimation of thermodynamic and ground-state properties using the Path Integral Monte Carlo methodology. I am also deeply interested in the effect of nuclear spin in many-body rotors and the application of molecular dynamics in material science.
+
+💻 On GitHub, you'll find my work that spans various programming languages and tools. I have expertise in FORTRAN, Python, C, C++, and Julia, and am skilled in high-performance computations and using scientific tools like Visual Molecular Dynamics, MoRiBS-PIGS, PySCF, ORCA, and MCTDH.
+
+🌐 I am passionate about open science and collaborative research. I welcome opportunities to connect with fellow researchers, developers, and enthusiasts in computational chemistry and physics. Whether it's discussing research, exploring new methodologies, or just exchanging ideas, feel free to reach out!
+
+📖 Outside of research, I enjoy exploring advancements in quantum computing and contributing to scientific education and outreach.
+
+Let's connect and explore the exciting world of computational science together!
 
 ## ⚡ Present Academic Position
 - [x] Post Doctoral Research Associate-III \
