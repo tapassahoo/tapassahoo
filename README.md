@@ -73,7 +73,7 @@ Kolkata - 700106, India
 - [x] Click [ResearchGate](https://www.researchgate.net/profile/Tapas-Sahoo-5/research)
 
 ## ⚡ Oral Presentations
-- [X] [A Path Integral Ground State Approach for Rotors with Nuclear Spin Symmetry](https://github.com/tapassahoo/tapassahoo/files/8837059/presentation-on-quantum-sensing-and-quantum-metrology.pdf)
+- [X] [A Path Integral Ground State Approach for Rotors with Nuclear Spin Symmetry](https://github.com/tapassahoo/Academic-Writting/blob/master/write-ups-for-academic-position/presentation/presentation-on-quantum-sensing-and-quantum-metrology.pdf)
 
 ## ⚡ Contact Me 
 - [X] tapascuchem@gmail.com
