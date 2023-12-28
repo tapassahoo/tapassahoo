@@ -42,7 +42,7 @@ Kolkata - 700106, India
 
 | University | Position held | Date of joining | Date of leaving |
 | --- | --- | ---| ---|
-| **Department of Chemical, Biological and Macro Molecular Sciences, S. N. Bose National Centre for Basic Sciences, India** | Post Doctoral Research Associate-III | May 10, 2022 | Till date |
+| **Department of Chemical, Biological and Macro Molecular Sciences, S. N. Bose National Centre for Basic Sciences, India** | Post Doctoral Research Associate-III | May 10, 2022 | December 31, 2023 |
 | **Department of Chemistry, University of Waterloo, Canada** | Postdoctoral Fellow | November 1, 2016 | August 31, 2021 |
 | **Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel** | Postdoctoral Fellow | July 6, 2014 |July 6, 2016 |
     
@@ -73,11 +73,10 @@ Kolkata - 700106, India
 - [x] Click [ResearchGate](https://www.researchgate.net/profile/Tapas-Sahoo-5/research)
 
 ## ⚡ Oral Presentations
-- [X] [A Path Integral Ground State Approach for Asymmetric Top Rotors with Nuclear Spin Symmetry](https://github.com/tapassahoo/tapassahoo/files/8837059/talk-research-summary-tapas-sahoo.pdf)
+- [X] [A Path Integral Ground State Approach for Rotors with Nuclear Spin Symmetry](https://github.com/tapassahoo/tapassahoo/files/8837059/presentation-on-quantum-sensing-and-quantum-metrology.pdf)
 
 ## ⚡ Contact Me 
 - [X] tapascuchem@gmail.com
-- [X] tsahoo@bose.res.in
 
 ## ⚡ Some Important Links to Get Journal Informations
 - [x] Journal's IF listed in [Scimago Journal & Country Rank](https://www.scimagojr.com/journalsearch.php?q=26927&tip=sid&clean=0)
