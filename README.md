@@ -15,10 +15,10 @@ Hello! I'm Dr. Tapas Sahoo, a Postdoctoral Research Associate at the S. N. Bose 
 Let's connect and explore the exciting world of computational science together!
 
 ## ⚡ Present Academic Position
-- [x] Post Doctoral Research Associate-III \
-Department of Chemical, Biological and Macro Molecular Sciences \
-S. N. Bose National Centre for Basic Sciences \
-Kolkata - 700106, India
+- [x] Part-Time Faculty Member \
+Department of Chemistry \
+National Institute of Technology Raipur \
+G.E. Road, Raipur - 492010 (C.G.),  India
     
 ## ⚡ Personal
 - [x] Born on January 15, 1984. 
