@@ -3,7 +3,7 @@
 🚀 **Quantum Molecular Dynamics | Computational Chemistry | HPC Simulations**  
 
 🔬 Faculty Member | **National Institute of Technology (NIT) Raipur, India**  
-🎓 Ph.D. in Chemistry | **University of Calcutta**  
+🎓 Ph.D. in Chemistry | **Indian Association for the Cultivation of Science** | **University of Calcutta**  
 
 ---
 
