@@ -2,7 +2,7 @@
 
 🚀 **Quantum Molecular Dynamics | Computational Chemistry | HPC Simulations**  
 
-🔬 Faculty Member | **National Institute of Technology (NIT) Raipur, India**  
+🔬 Part-Time Faculty Member | **National Institute of Technology (NIT) Raipur, India**  
 🎓 Ph.D. in Chemistry | **Indian Association for the Cultivation of Science** | **University of Calcutta**  
 
 ---
@@ -27,7 +27,7 @@ I have held research positions at leading institutions, including:
 
 | Institution | Position | Duration |
 |------------|----------|----------|
-| **🇮🇳 NIT Raipur, India** | Faculty Member | 2024 – Present |
+| **🇮🇳 NIT Raipur, India** | Part-Time Faculty Member | 2024 – Present |
 | **🇮🇳 S. N. Bose National Centre, India** | Postdoctoral Research Associate-III | 2022 – 2023 |
 | **🇨🇦 University of Waterloo, Canada** | Postdoctoral Fellow | 2016 – 2021 |
 | **🇮🇱 Weizmann Institute of Science, Israel** | Postdoctoral Fellow | 2014 – 2016 |
@@ -83,10 +83,11 @@ I have held research positions at leading institutions, including:
 📌 **[GitHub](https://github.com/tapassahoo)**  
 
 ---
-
+<!-- 
 ### ✨ Why This Version?  
 ✔️ **Professional & Structured** – Clearly organized sections  
 ✔️ **Visually Engaging** – Emojis & highlights for readability  
 ✔️ **GitHub-Optimized** – Best formatting for profile visibility  
+-->
 
 🔗 Let’s connect and explore the quantum world together! 🚀  
