@@ -13,9 +13,7 @@ I am a **theoretical and computational chemist** with expertise in **quantum mol
 I have held research positions at distinguished institutions, including:
 
 🏛 **Weizmann Institute of Science, Israel**
-
 🏛 **University of Waterloo, Canada**
-
 🏛 **S. N. Bose National Centre for Basic Sciences, India**
 
 I am currently engaged in teaching at the National Institute of Technology (NIT) Raipur, offering courses to both B.Tech. and M.Sc. students. My teaching portfolio includes Quantum Mechanics, Chemical Kinetics, Thermodynamics, Electrochemistry, Applied Chemistry, and Environment & Ecology, along with hands-on laboratory instruction.
