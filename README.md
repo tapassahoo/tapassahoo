@@ -43,15 +43,17 @@ I currently teach at **NIT Raipur**, offering courses to **B.Tech.** and **M.Sc.
 
 ---
 
-## 🎯 Teaching Experience  
-📌 **Postgraduate (M.Sc. Chemistry)**  
+## 🎯 Teaching Experience
+
+### 📚 Postgraduate (M.Sc. Chemistry)
 - Quantum Mechanics  
 - Chemical Kinetics  
-- Thermodynamics & Electrochemistry  
+- Thermodynamics  
+- Electrochemistry  
 
-📌 **Undergraduate (B.Tech.)**  
+### 🎓 Undergraduate (B.Tech.)
 - Applied Chemistry  
-- Environmental Science & Ecology  
+- Environment & Ecology
 
 ---
 
