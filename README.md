@@ -8,15 +8,9 @@
 ---
 
 ## 🌌 About Me
-I am a **theoretical and computational chemist** with expertise in **quantum molecular dynamics, high-performance computing (HPC)**, and **entanglement entropy**. My research interests include Path Integral Monte Carlo (PIMC), quantum effects in molecular systems, nuclear spin symmetries, and algorithmic developments for molecular simulations.
+I am a **theoretical and computational chemist** with expertise in **quantum molecular dynamics**, **high-performance computing (HPC)**, and **entanglement entropy**. My work focuses on **Path Integral Monte Carlo (PIMC)**, **quantum effects in molecular systems**, **nuclear spin symmetries**, and the development of **computational algorithms** for large-scale molecular simulations.
 
-I have held research positions at distinguished institutions, including:
-
-🏛 **Weizmann Institute of Science, Israel**
-🏛 **University of Waterloo, Canada**
-🏛 **S. N. Bose National Centre for Basic Sciences, India**
-
-I am currently engaged in teaching at the National Institute of Technology (NIT) Raipur, offering courses to both B.Tech. and M.Sc. students. My teaching portfolio includes Quantum Mechanics, Chemical Kinetics, Thermodynamics, Electrochemistry, Applied Chemistry, and Environment & Ecology, along with hands-on laboratory instruction.
+I currently teach at **NIT Raipur**, offering courses to **B.Tech.** and **M.Sc.** students in **Quantum Mechanics**, **Chemical Kinetics**, **Thermodynamics**, **Electrochemistry**, **Applied Chemistry**, and **Environment & Ecology**, along with comprehensive **laboratory instruction**.
 
 ---
 
