@@ -27,7 +27,7 @@ I have held research positions at leading institutions, including:
 
 | Institution | Position | Duration |
 |------------|----------|----------|
-| **🇮🇳 NIT Raipur, India** | Part-Time Faculty Member | 2024 – Present |
+| **🇮🇳 NIT Raipur, India** | Temporary Faculty | 2024 – Present |
 | **🇮🇳 S. N. Bose National Centre, India** | Postdoctoral Research Associate-III | 2022 – 2023 |
 | **🇨🇦 University of Waterloo, Canada** | Postdoctoral Fellow | 2016 – 2021 |
 | **🇮🇱 Weizmann Institute of Science, Israel** | Postdoctoral Fellow | 2014 – 2016 |
