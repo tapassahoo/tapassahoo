@@ -79,7 +79,7 @@ I have held research positions at leading institutions, including:
 ---
 
 ## 📬 Get in Touch  
-📧 **tapascuchem@gmail.com**  
+📧 **tapascuchem@gmail.com** or **tsahoo.chy@nitrr.ac.in**  
 📌 **[GitHub](https://github.com/tapassahoo)**  
 
 ---
