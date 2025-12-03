@@ -63,6 +63,13 @@ I currently teach at **NIT Raipur**, offering courses to **B.Tech.** and **M.Sc.
 💡 **Scientific Tools**: PySCF | ORCA | MoRiBS | MCTDH | VMD  
 💡 **Technical Writing**: LaTeX | PGF/TikZ | LyX  
 
+💡 **Programming and Scripting:** FORTRAN, Python, C++, Julia, Bash  
+💡 **Web Development:** HTML, CSS, JavaScript  
+💡 **High-Performance and Scientific Computing:** OpenMP, MPI, CUDA, Quantum Chemistry Packages  
+💡 **Scientific Software:** PySCF, ORCA, MoRiBS, MCTDH, VMD  
+💡 **Data Visualization:** Gnuplot, Matplotlib  
+💡 **Technical Documentation:** LaTeX, PGF/TikZ, LyX
+
 ---
 
 ## 📄 Publications & Profiles  
