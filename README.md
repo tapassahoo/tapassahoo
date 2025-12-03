@@ -15,10 +15,10 @@ I currently teach at **NIT Raipur**, offering courses to **B.Tech.** and **M.Sc.
 ---
 
 ## 🔬 Research Interests  
-✅ **Quantum Molecular Dynamics** – Many-body interactions, entanglement entropy  
-✅ **Computational Chemistry** – Molecular simulations, electronic structure calculations  
-✅ **HPC & Parallel Computing** – OpenMP, MPI, CUDA, large-scale simulations  
-✅ **Path Integral Methods** – Quantum ground-state properties, nuclear spin effects  
+✅ **Quantum Molecular Dynamics** – Many-body interactions | Entanglement entropy  
+✅ **Computational Chemistry** – Molecular simulations | Electronic structure calculations  
+✅ **HPC & Parallel Computing** – OpenMP | MPI | CUDA | Large-scale simulations  
+✅ **Path Integral Methods** – Quantum ground-state properties | Nuclear spin effects  
 
 ---
 
@@ -58,17 +58,12 @@ I currently teach at **NIT Raipur**, offering courses to **B.Tech.** and **M.Sc.
 ---
 
 ## 💻 Technical Skills  
-💡 **Programming & Scripting**: FORTRAN | Python | C++ | Julia | Bash  
-💡 **HPC & Scientific Computing**: OpenMP | MPI | CUDA | Quantum Chemistry Packages  
-💡 **Scientific Tools**: PySCF | ORCA | MoRiBS | MCTDH | VMD  
-💡 **Technical Writing**: LaTeX | PGF/TikZ | LyX  
-
-💡 **Programming and Scripting:** FORTRAN, Python, C++, Julia, Bash  
-💡 **Web Development:** HTML, CSS, JavaScript  
-💡 **High-Performance and Scientific Computing:** OpenMP, MPI, CUDA, Quantum Chemistry Packages  
-💡 **Scientific Software:** PySCF, ORCA, MoRiBS, MCTDH, VMD  
-💡 **Data Visualization:** Gnuplot, Matplotlib  
-💡 **Technical Documentation:** LaTeX, PGF/TikZ, LyX
+💡 **Programming and Scripting:** FORTRAN | Python | C++ | Julia | Bash  
+💡 **Web Development:** HTML | CSS | JavaScript  
+💡 **High-Performance and Scientific Computing:** OpenMP | MPI | CUDA | Quantum Chemistry Packages  
+💡 **Scientific Software:** PySCF | ORCA | MoRiBS | MCTDH | VMD | Avgadro  
+💡 **Data Visualization:** Gnuplot | Matplotlib | Avogadro | VMD  
+💡 **Technical Documentation:** LaTeX | PGF/TikZ | LyX
 
 ---
 
