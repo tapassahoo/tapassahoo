@@ -2,7 +2,7 @@
 
 🚀 **Quantum Molecular Dynamics | Computational Chemistry | HPC Simulations**  
 
-🔬 Assistant Professor (Chemistry) | **Department of Applied Science** | **Haldia Institute of Technology (HIT), India**  
+🔬 Assistant Professor in Chemistry | **Department of Applied Science** | **Haldia Institute of Technology (HIT), India**  
 🎓 Ph.D. in Chemistry | **Indian Association for the Cultivation of Science** | **University of Calcutta**  
 
 ---
@@ -26,6 +26,7 @@ I currently teach at **NIT Raipur**, offering courses to **B.Tech.** and **M.Sc.
 
 | Institution | Position | Duration |
 |------------|----------|----------|
+| **🇮🇳 Haldia Institute of Technology, India** | Assistant Professor | 2026 –  |
 | **🇮🇳 NIT Raipur, India** | Temporary Faculty | 2024 – 2026 |
 | **🇮🇳 S. N. Bose National Centre, India** | Postdoctoral Research Associate-III | 2022 – 2023 |
 | **🇨🇦 University of Waterloo, Canada** | Postdoctoral Fellow | 2016 – 2021 |
