@@ -71,6 +71,7 @@ I am a **theoretical and computational chemist** with expertise in **quantum mol
 ---
 
 ## 📄 Publications & Profiles  
+https://vidwan.inflibnet.ac.in/profile/698247
 📚 **[Google Scholar](https://scholar.google.com/citations?hl=en&user=543UGZsAAAAJ)**  
 🔬 **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=38362202800)**  
 📖 **[ResearchGate](https://www.researchgate.net/profile/Tapas-Sahoo-5/research)**  
