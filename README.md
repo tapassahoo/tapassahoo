@@ -52,9 +52,13 @@ I currently teach at **NIT Raipur**, offering courses to **B.Tech.** and **M.Sc.
 - Thermodynamics  
 - Electrochemistry  
 
-### 🎓 Undergraduate (B.Tech.)
+### 🎓 Undergraduate (B.Tech)
 - Applied Chemistry  
 - Environment & Ecology
+- Atomic Structure
+- Chemical Bonding
+- Thermodynamics
+- Water Chemistry
 
 ---
 
