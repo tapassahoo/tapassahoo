@@ -1,4 +1,4 @@
-# ⚡ Dr. Tapas Sahoo  
+# ⚡ **[Dr. Tapas Sahoo](https://vidwan.inflibnet.ac.in/profile/698247)**   
 
 🚀 **Quantum Molecular Dynamics | Computational Chemistry | HPC Simulations**  
 
