@@ -2,7 +2,7 @@
 
 🚀 **Quantum Molecular Dynamics | Computational Chemistry | HPC Simulations**  
 
-🔬 Assistant Professor in Chemistry | **Department of Applied Science** | **Haldia Institute of Technology (HIT), India**  
+🔬 Assistant Professor in Chemistry | **Department of Applied Science (Chemistry)** | **Haldia Institute of Technology (HIT), India**  
 🎓 Ph.D. in Chemistry | **Indian Association for the Cultivation of Science** | **University of Calcutta**  
 
 ---
