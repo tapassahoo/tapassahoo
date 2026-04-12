@@ -2,7 +2,7 @@
 
 🚀 **Quantum Molecular Dynamics | Computational Chemistry | HPC Simulations**  
 
-🔬 Assistant Professor in Chemistry | **Department of Applied Science (Chemistry)** | **Haldia Institute of Technology (HIT), India**  
+🔬 Assistant Professor (Chemistry) | **Department of Applied Science** | **Haldia Institute of Technology (HIT), India**  
 🎓 Ph.D. in Chemistry | **Indian Association for the Cultivation of Science** | **University of Calcutta**  
 
 ---
@@ -37,6 +37,7 @@ I am a **theoretical and computational chemist** with expertise in **quantum mol
 | Degree | Institution | Year |
 |--------|------------|------|
 | **Ph.D. in Physical Chemistry** | Indian Association for the Cultivation of Science, University of Calcutta | 2015 |
+| **CSIR NET JRF in Chemical Sciences**| University of Calcutta | 2008 and 2009|
 | **M.Sc. in Chemistry (Physical)** | University of Calcutta | 2008 |
 | **B.Sc. (Hons) in Chemistry** | Ramakrishna Mission Vivekananda Centenary College | 2006 |
 
