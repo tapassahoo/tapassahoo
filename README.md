@@ -82,7 +82,7 @@ I am a **theoretical and computational chemist** with expertise in **quantum mol
 
 ## 🎤 Selected Talks & Conferences  
 🎙️ **"From Energy and Structure to Entanglement in Confined Molecular Systems"**  
-📄 **[View Presentation](https://github.com/tapassahoo/Academic-Writting/blob/master/write-ups-for-academic-position/presentation/talk-at-hit.pdf)**  
+📄 **[View Presentation]([https://github.com/tapassahoo/Academic-Writting/blob/master/write-ups-for-academic-position/presentation/talk-at-hit.pdf](https://github.com/tapassahoo/Academic-Writting/blob/master/write-ups-for-academic-position/presentation/talk-at-HIT.pdf)**  
 
 ---
 
