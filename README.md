@@ -87,7 +87,7 @@ I am a **theoretical and computational chemist** with expertise in **quantum mol
 ---
 
 ## 📬 Get in Touch  
-📧 **tapascuchem@gmail.com** or **tsahoo.chy@nitrr.ac.in**  
+📧 **tapascuchem@gmail.com** 
 📌 **[GitHub](https://github.com/tapassahoo)**  
 
 ---
