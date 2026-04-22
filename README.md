@@ -81,8 +81,8 @@ I am a **theoretical and computational chemist** with expertise in **quantum mol
 ---
 
 ## 🎤 Selected Talks & Conferences  
-🎙️ **"A Path Integral Ground State Approach for Rotors with Nuclear Spin Symmetry"**  
-📄 **[View Presentation](https://github.com/tapassahoo/Academic-Writting/blob/master/write-ups-for-academic-position/presentation/presentation-on-quantum-sensing-and-quantum-metrology.pdf)**  
+🎙️ **"From Energy and Structure to Entanglement in Confined Molecular Systems"**  
+📄 **[View Presentation](https://github.com/tapassahoo/Academic-Writting/blob/master/write-ups-for-academic-position/presentation/talk-at-hit.pdf)**  
 
 ---
 
